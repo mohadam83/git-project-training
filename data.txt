@@ -1,3 +1,5 @@
 Adam, 22
 BNI, 46
 nikah, 23
+ran, 23
+andy, 30
