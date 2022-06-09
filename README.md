@@ -1,7 +1,7 @@
 # Heading
 ## Heading
 
-*Saya* **Adam**
+*Saya* **Moh. Adam R.**
 
 # Baru
-# tambah lagi
+*Training Git*
