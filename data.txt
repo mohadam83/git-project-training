@@ -3,3 +3,4 @@ BNI, 46
 nikah, 23
 ran, 23
 andy, 30
+haji, 40
